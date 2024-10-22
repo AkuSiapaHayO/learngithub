@@ -6,4 +6,5 @@ import androidx.compose.runtime.Composable
 @Composable
 fun Baru2() {
     Text("Upadet baru ni bang")
+    Text("Upadet baru ni bang 2")
 }
